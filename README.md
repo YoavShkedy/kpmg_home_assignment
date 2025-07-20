@@ -1,4 +1,4 @@
-# KPMG Assignment - Israeli Healthcare Document Processing
+# KPMG Assignment
 
 This repository contains a two-part assignment focused on AI-powered document processing and conversational systems for Israeli healthcare and insurance services.
 
